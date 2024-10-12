@@ -1,0 +1,1 @@
+Estarei postando aqui os trabalhos realizados em sala de aula, que têm como objetivo principal ensinar e compartilhar conhecimento. Cada projeto é pensado para desenvolver novas habilidades e aplicar o que foi aprendido, buscando sempre o aperfeiçoamento e a troca de experiências.
