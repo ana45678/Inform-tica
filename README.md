@@ -13,7 +13,7 @@ Esse trabalho fiz em grupo com o tema de autoapresentação. A atividade tinha c
 
 Realizamos um trabalho no Excel utilizando fórmulas essenciais para análise de dados: SOMA, CONT.SE, SOMASE e SE. O objetivo era aplicar essas funções para resolver questões práticas e facilitar o tratamento de grandes volumes de dados.
 
-Arquivo - 
+Arquivo - Trabalho%20Informatica.xlsx
 
 3º - Excel
 
