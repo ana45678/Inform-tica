@@ -19,7 +19,7 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%20Informati
 
 Coletamos dados de sites com informações abertas e elaboramos cinco perguntas sobre eles. Usamos fórmulas no Excel, como SOMA, CONT.SE, SOMASE e MÉDIASE, para responder às perguntas e criar gráficos que ilustram os resultados calculados.
 
-Arquivo - 
+Arquivo - https://github.com/ana45678/Informatica/blob/main/Projeto%20Inform%C3%A1tica.1%20(3).xlsb
 
 4º - Power BI - 1º Trabalho
 
