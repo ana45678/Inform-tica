@@ -31,4 +31,4 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%202.pbix
 
 Acessei um repositório de dados abertos e criei cinco perguntas com base nas informações coletadas. No Power BI, desenvolvi visualizações que respondem a essas perguntas e organizei tudo em um dashboard com título.
 
-Arquivo - 
+Arquivo - https://github.com/ana45678/Informatica/blob/main/info.pbix
