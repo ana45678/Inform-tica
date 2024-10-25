@@ -27,6 +27,9 @@ Elaborei um arquivo contendo indicadores e links para figuras representativas de
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%202.pbix
 
+5º - Power BI - 2º Trabalho
+https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
+
 5º - Power BI - 2º Trabalho 
 
 Acessei um repositório de dados abertos e criei cinco perguntas com base nas informações coletadas. No Power BI, desenvolvi visualizações que respondem a essas perguntas e organizei tudo em um dashboard com título.
