@@ -27,11 +27,23 @@ Elaborei um arquivo contendo indicadores e links para figuras representativas de
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%202.pbix
 
-5º - Power BI - 2º Trabalho
-https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
 
 5º - Power BI - 2º Trabalho 
 
 Acessei um repositório de dados abertos e criei cinco perguntas com base nas informações coletadas. No Power BI, desenvolvi visualizações que respondem a essas perguntas e organizei tudo em um dashboard com título.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/info.pbix
+
+
+6º - Power BI - 3º Trabalho
+
+Utilizando o arquivo anexado, produzi um dashboard que mostra o KPI do total de itens vendidos, destacando o volume e permitindo fácil acompanhamento do desempenho.
+
+Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
+
+
+7º - Power BI - 4º Trabalho
+
+Utilizei a tabela de atividades passadas para analisar o desempenho e estabelecer três metas principais a serem atingidas. Em seguida, desenvolvi visualizações de KPIs no Power BI que monitoram essas metas, permitindo avaliar facilmente se foram alcançadas.
+
+Arquivo - 
