@@ -46,4 +46,4 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
 
 Utilizei a tabela de atividades passadas para analisar o desempenho e estabelecer três metas principais a serem atingidas. Em seguida, desenvolvi visualizações de KPIs no Power BI que monitoram essas metas, permitindo avaliar facilmente se foram alcançadas.
 
-Arquivo - 
+Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%204.pbix%20atu.%201.pbix.4.pbix
