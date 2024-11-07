@@ -20,6 +20,9 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%20Informati
 
 3º - Excel
 
+![Captura de tela 2024-11-07 141444](https://github.com/user-attachments/assets/defe534d-8ba5-4c8d-b5e4-b871bda0cf30)
+
+
 Coletamos dados de sites com informações abertas e elaboramos cinco perguntas sobre eles. Usamos fórmulas no Excel, como SOMA, CONT.SE, SOMASE e MÉDIASE, para responder às perguntas e criar gráficos que ilustram os resultados calculados.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Projeto%20Inform%C3%A1tica.1%20(3).xlsb
