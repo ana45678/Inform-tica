@@ -4,12 +4,12 @@ Estarei postando aqui os trabalhos realizados em sala de aula, que têm como obj
 Atividades FATEC – GPI 1º Semestre
 Trabalhos de Informática
 
-1º - Power Point
+# 1º - Power Point #
 
 Esse trabalho fiz em grupo com o tema de autoapresentação. A atividade tinha como objetivo nos conhecer melhor e identificar três coisas em comum entre os membros do grupo. 
 
 
-2º - Excel
+# 2º - Excel #
 
 ![Capturar](https://github.com/user-attachments/assets/dace9189-d599-4696-8234-3f3d808df567)
 
@@ -17,7 +17,7 @@ Realizamos um trabalho no Excel utilizando fórmulas essenciais para análise de
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%20Informatica.xlsx
 
-3º - Excel
+# 3º - Excel #
 
 ![Captura de tela 2024-11-07 141444](https://github.com/user-attachments/assets/defe534d-8ba5-4c8d-b5e4-b871bda0cf30)
 
@@ -25,7 +25,7 @@ Coletamos dados de sites com informações abertas e elaboramos cinco perguntas 
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Projeto%20Inform%C3%A1tica.1%20(3).xlsb
 
-*4º - Power BI - 1º Trabalho*
+4º - Power BI - 1º Trabalho
 
 Elaborei um arquivo contendo indicadores e links para figuras representativas de cada indicador. Utilizei o Power BI para organizar esses dados, permitindo que cada indicador estivesse relacionado à sua respectiva imagem de forma dinâmica. O uso do Power BI foi essencial para criar visualizações interativas, facilitando a análise e interpretação dos indicadores com suas figura.
 
