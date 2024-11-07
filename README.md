@@ -25,7 +25,7 @@ Coletamos dados de sites com informações abertas e elaboramos cinco perguntas 
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Projeto%20Inform%C3%A1tica.1%20(3).xlsb
 
-*4º - Power BI - 1º Trabalho
+*4º - Power BI - 1º Trabalho*
 
 Elaborei um arquivo contendo indicadores e links para figuras representativas de cada indicador. Utilizei o Power BI para organizar esses dados, permitindo que cada indicador estivesse relacionado à sua respectiva imagem de forma dinâmica. O uso do Power BI foi essencial para criar visualizações interativas, facilitando a análise e interpretação dos indicadores com suas figura.
 
