@@ -54,6 +54,8 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
 
 # 7º - Power BI - 4º Trabalho #
 
+![image](https://github.com/user-attachments/assets/1b7272aa-76e0-4611-9694-5a3d0db4fd82)
+
 Utilizei a tabela de atividades passadas para analisar o desempenho e estabelecer três metas principais a serem atingidas. Em seguida, desenvolvi visualizações de KPIs no Power BI que monitoram essas metas, permitindo avaliar facilmente se foram alcançadas.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%204.pbix%20atu.%201.pbix.4.pbix
