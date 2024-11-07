@@ -11,6 +11,9 @@ Esse trabalho fiz em grupo com o tema de autoapresentação. A atividade tinha c
 
 2º - Excel
 
+![Captura de tela 2024-11-07 141305](https://github.com/user-attachments/assets/48e67614-734a-41a2-aade-2fbd07654f24)
+
+
 Realizamos um trabalho no Excel utilizando fórmulas essenciais para análise de dados: SOMA, CONT.SE, SOMASE e SE. O objetivo era aplicar essas funções para resolver questões práticas e facilitar o tratamento de grandes volumes de dados.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%20Informatica.xlsx
