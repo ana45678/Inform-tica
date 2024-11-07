@@ -25,28 +25,34 @@ Coletamos dados de sites com informações abertas e elaboramos cinco perguntas 
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Projeto%20Inform%C3%A1tica.1%20(3).xlsb
 
-4º - Power BI - 1º Trabalho
+# 4º - Power BI - 1º Trabalho #
+
+![Capturar PNG1](https://github.com/user-attachments/assets/2e64979d-14c1-4eb0-94c3-6106983e49d3)
 
 Elaborei um arquivo contendo indicadores e links para figuras representativas de cada indicador. Utilizei o Power BI para organizar esses dados, permitindo que cada indicador estivesse relacionado à sua respectiva imagem de forma dinâmica. O uso do Power BI foi essencial para criar visualizações interativas, facilitando a análise e interpretação dos indicadores com suas figura.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%202.pbix
 
 
-5º - Power BI - 2º Trabalho 
+# 5º - Power BI - 2º Trabalho #
+
+![Capturar PNG2](https://github.com/user-attachments/assets/d5f1f53c-0f20-4ce4-aefe-1549b4945124)
 
 Acessei um repositório de dados abertos e criei cinco perguntas com base nas informações coletadas. No Power BI, desenvolvi visualizações que respondem a essas perguntas e organizei tudo em um dashboard com título.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/info.pbix
 
 
-6º - Power BI - 3º Trabalho
+# 6º - Power BI - 3º Trabalho #
+
+![Capturar PNG3](https://github.com/user-attachments/assets/f0817291-4cad-4a03-a653-870dec7fffbf)
 
 Utilizando o arquivo anexado, produzi um dashboard que mostra o KPI do total de itens vendidos, destacando o volume e permitindo fácil acompanhamento do desempenho.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
 
 
-7º - Power BI - 4º Trabalho
+# 7º - Power BI - 4º Trabalho #
 
 Utilizei a tabela de atividades passadas para analisar o desempenho e estabelecer três metas principais a serem atingidas. Em seguida, desenvolvi visualizações de KPIs no Power BI que monitoram essas metas, permitindo avaliar facilmente se foram alcançadas.
 
