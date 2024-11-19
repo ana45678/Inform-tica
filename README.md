@@ -66,3 +66,5 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%204.pbix%
 
 Nesse trabalho foi usando o Copilot, onde crie um aplicativo via Power APPS com os dados de bebidas.
 
+Arquivo - https://github.com/ana45678/Informatica/blob/main/Aplicativo%201.msapp
+
